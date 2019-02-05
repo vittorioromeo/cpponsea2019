@@ -1,7 +1,7 @@
 # cpponsea2019
 Repository for my C++ On Sea 2019 talks.
 
-## Futures without type erasure
+## Higher-order functions and `function_ref`
 
 * [Abstract](https://cpponsea.uk/sessions/higher-order-functions-and-function_ref.html)
 
