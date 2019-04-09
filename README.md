@@ -1,4 +1,5 @@
 # cpponsea2019
+
 Repository for my C++ On Sea 2019 talks.
 
 ## Higher-order functions and `function_ref`
@@ -7,5 +8,5 @@ Repository for my C++ On Sea 2019 talks.
 
 * [Slides](https://github.com/SuperV1234/cpponsea2019/blob/master/slides.pdf)
 
-* [~YouTube video~](TODO)
+* [YouTube video](https://www.youtube.com/watch?v=TxhOTj_ynUM)
 
